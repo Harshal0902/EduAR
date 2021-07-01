@@ -2,11 +2,11 @@
 
 <!-- Temp. -->
 ## Todo
-[x] Login/Sign Up Page
-[x] Chatbot
-[ ] Home Page
-[ ] Class Page
-[ ] AR Model Page
+- [x] Login/Sign Up Page
+- [x] Chatbot
+- [ ] Home Page
+- [ ] Class Page
+- [ ] AR Model Page
 
 # Team Hack Elite
 
