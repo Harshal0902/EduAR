@@ -5,23 +5,21 @@
 - [x] Login/Sign Up Page
 - [x] Chatbot
 - [ ] Home Page
-- [ ] Class Page
+- [x] Class Page
 - [ ] AR Model Page
 
 # Team Hack Elite
 
-## Contact Details
-- Rutuja Dhanawade: 
-- Harshal Raikwar: +91 9826330925
-
-## Theme: Education
+## Number of members in a team : 2
 
 ## Team Details
-- Rutuja Dhanawade: 
+- Rutuja Dhanawade: Pune Institute of Computer Technology, Pune
 - Harshal Raikwar: SRM Institute of Science and Technology
 
+## Theme of the project: Education
+
 ## Discord Usernames
-- Rutuja Dhanawade: 
+- Rutuja Dhanawade: Rutuja | Participant (Rutuja#4355)
 - Harshal Raikwar: Harshal Raikwar | Participant (Tenet#8519)
 
 ## Detailed Explanation of the Idea
