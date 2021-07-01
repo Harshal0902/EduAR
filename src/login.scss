@@ -33,6 +33,7 @@
 .img-fluid{
   width: 800px;
   padding-top: 80px;
+  background-color: white;
 }
 
 button {
@@ -58,6 +59,7 @@ button {
   flex-direction: column;
   justify-content: center;
   background-color: white;
+  border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
 }
 
@@ -115,7 +117,7 @@ button {
 
 .EduAR-Heading{
   color: #603bbb;
-  padding-left: 5%;
+  padding-left: 18%;
   font-weight: 800;
   font-size: 5rem;
   font-family: "Dancing Script", cursive;

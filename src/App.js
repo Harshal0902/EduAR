@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import './App.css';
+import './App.scss';
 import fire from "./fire"
 import Main from "./main"
 import Login from "./login"
