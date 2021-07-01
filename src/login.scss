@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Libre+Baskerville:ital@1&display=swap");
+
+.box1{
+  width: 400px;
+  height: 400px;
+  background-color: rgb(49, 104, 185);
+  z-index: -1;
+  margin-top: 25px;
+  margin-left: -50px;
+  border-radius: 50px;
+}
+
+.box2{
+  width: 300px;
+  height: 300px;
+  background-color: rgb(49, 104, 185);
+  z-index: -1;
+  margin-top: -250px;
+  margin-left: 850px;
+  border-radius: 50px;
+}
+
+.login-box{
+  z-index: 5;
+  margin-top: -45vh;
+  box-sizing: border-box;
+  border: 5px solid rgb(14, 28, 230);
+  border-radius: 15px;
+  padding: 0px 100px;
+  background-color: white;
+}
+
+.img-fluid{
+  width: 800px;
+  padding-top: 80px;
+}
+
+button {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #603bbb;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.loginContainer {
+  padding: 60px;
+  margin: auto;
+  width: 123%;
+  // max-width: 420px;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  border-bottom-right-radius: 25px;
+}
+
+.loginContainer label {
+  color: white;
+  margin: 14px 0;
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.loginContainer input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 19px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  /* color: #fff; */
+  letter-spacing: 1px;
+  border-radius: 10px;
+  /* border: 2px solid rgb(17, 17, 19); */
+  background: transparent;
+  border-bottom: 2px solid #9b9b9b;
+}
+
+.loginContainer .btnContainer {
+  width: 100%;
+  padding: 24px 0;
+  border-radius: 25px;
+}
+
+.loginContainer .btnContainer p {
+  margin: 14px 0 0 0;
+  text-align: right;
+}
+
+.loginContainer .btnContainer p span {
+  color: rgb(29, 21, 20);
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+
+.loginContainer .btnContainer p span:hover {
+  color: rgb(26, 18, 18);
+}
+
+.loginContainer .errorMsg {
+  color: red;
+  font-size: 16px;
+}
+
+.EduAR-Heading{
+  color: #603bbb;
+  padding-left: 5%;
+  font-weight: 800;
+  font-size: 5rem;
+  font-family: "Dancing Script", cursive;
+}

@@ -1,10 +1,9 @@
 import React from 'react'
 
-export default function Home() {
-
+export default function Models() {
     return (
         <div>
-            Home page
+            Modelpage
         </div>
     )
 }

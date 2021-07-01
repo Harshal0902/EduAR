@@ -1,14 +1,24 @@
 import React from 'react';
-import Home from './components/Home/Home';
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
-import fire from "./fire"
+import Navbar from "./components/Navbar/Navbar"
+import Home from './components/Home/Home';
+import HomeHi from './components/Home/HomeHi';
+import Chatbot from "./components/Chatbot/Chatbot"
+import Classpage from "./components/ClassPage/Class"
+import Model from "./components/ModelsPage/Models"
+
 
 function App() {
 
   return (
     <Router>
+      <Navbar />
+      <Chatbot />
       <Switch>
         <Route path='/' exact component={Home} />
+        <Route path='/classes' exact component={Classpage} />
+        <Route path='/classes/model' exact component={Model} />
+        <Route path='/hi' exact component={HomeHi} />
         <Redirect to="/" />
       </Switch>
     </Router>
