@@ -38,7 +38,6 @@
     "restuta-react-dropzone-s3-uploader": "^0.20.4",
     "styled-components": "^5.2.1",
     "tslib": "^1.9.3",
-    "typescript": "^4.3.5",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

@@ -1,14 +1,5 @@
 # EduAR
 
-<!-- Temp. -->
-## Todo
-- [x] Login/Sign Up Page
-- [x] Chatbot
-- [x] Home Page
-- [x] Class Page
-- [x] AR Model Page
-- [x] Home Page Hindi
-
 # Team Hack Elite
 
 ## Number of members in a team : 2
