@@ -8,20 +8,14 @@ import Classpage from "./components/ClassPage/Class"
 import Model from "./components/ModelsPage/Models"
 import Fade from 'react-reveal/Fade';
 
-
 function App() {
 
   return (
     <Router>
-
       <Fade top>
         <Navbar />
       </Fade>
-
-      {/* <Fade> */}
-        <Chatbot />
-      {/* </Fade> */}
-
+      <Chatbot />
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/classes' exact component={Classpage} />
@@ -29,7 +23,6 @@ function App() {
         <Route path='/hi' exact component={HomeHi} />
         <Redirect to="/" />
       </Switch>
-
     </Router>
   );
 }
