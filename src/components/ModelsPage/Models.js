@@ -110,7 +110,6 @@ export default function Models() {
                     </div>
                 </Fade>
             </div>
-
         </div>
     )
 }

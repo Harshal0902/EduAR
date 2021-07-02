@@ -2,15 +2,21 @@
 
 # Team Hack Elite
 
+## Demo
+
+Checkout the demo video from [here](https://youtu.be/AEAkFxcyjqo)
+
 ## Number of members in a team : 2
 
 ## Team Details
+
 - Rutuja Dhanawade: Pune Institute of Computer Technology, Pune
 - Harshal Raikwar: SRM Institute of Science and Technology, Chennai
 
 ## Theme of the project: Education
 
 ## Discord Usernames
+
 - Rutuja Dhanawade: Rutuja | Participant (Rutuja#4355)
 - Harshal Raikwar: Harshal Raikwar | Participant (Tenet#8519)
 
@@ -19,6 +25,7 @@
 ## Solution provided
 
 ## Tech Stack used
+
 - React Js
 - Firebase
 - echoAR
@@ -27,22 +34,27 @@
 
 ## Real Time usage of the project
 
+[www.3dbear.io](https://www.3dbear.io/)
+
 ## Step by Step Procedure to run your respective Project in our Local Machine:
+
 ### Prerequisites
+
 Required to install and run the software:
 
- * [npm](https://www.npmjs.com/get-npm)
-
+- [npm](https://www.npmjs.com/get-npm)
 
 ### Installing and Running
 
 From the project folder, run these commands in console (terminal) to install dependencies and run the app:
+
 ```
 npm install
 npm start
 ```
 
 # Some glimps of the site
+
 Easy Log In/sign Up
 
 Home Page
@@ -54,5 +66,3 @@ AR Model
 Chatbot
 
 Available in multiple languages
-
-
