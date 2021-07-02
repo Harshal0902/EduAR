@@ -5,9 +5,9 @@
 - [x] Login/Sign Up Page
 - [x] Chatbot
 - [x] Home Page
-- [ ] Class Page
+- [x] Class Page
 - [x] AR Model Page
-- [ ] Home Page Hindi
+- [x] Home Page Hindi
 
 # Team Hack Elite
 
