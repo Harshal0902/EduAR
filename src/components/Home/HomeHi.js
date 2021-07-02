@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Home.scss"
-import EduARHome from "../../Assets/Eduar.png"
+import EduARHome from "../../Assets/Eduarh.png"
 import Flip from 'react-reveal/Flip';
 import Fade from 'react-reveal/Fade';
 

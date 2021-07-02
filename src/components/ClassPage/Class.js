@@ -1,6 +1,17 @@
 import React, { Component } from 'react'
 import "./Class.scss";
-import ClassImg from "../../Assets/Classroom.jpg"
+import Class12 from "../../Assets/12.jpg"
+import Class11 from "../../Assets/11.jpg"
+import Class10 from "../../Assets/10.jpg"
+import Class9 from "../../Assets/9.jpg"
+import Class8 from "../../Assets/8.jpg"
+import Class7 from "../../Assets/7.jpg"
+import Class6 from "../../Assets/6.jpg"
+import Class5 from "../../Assets/5.jpg"
+import Class4 from "../../Assets/4.jpg"
+import Class3 from "../../Assets/3.jpg"
+import Class2 from "../../Assets/2.jpg"
+import Class1 from "../../Assets/1.jpg"
 import { Link } from 'react-router-dom';
 import Fade from 'react-reveal/Fade';
 
@@ -20,132 +31,108 @@ export class Class extends Component {
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class1} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 1</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class2} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 2</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class3} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 3</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class4} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 4</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class5} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 5</p>
+
+                            </div>
+                        </Link>
+
+
+
+                        <Link to='/classes/model' style={{ textDecoration: "none" }}>
+                            <div className="card" style={{ borderRadius: "40px" }}>
+                                <div className="card-image">
+                                    <img alt="ClassImg" src={Class6} rel="" />
                                 </div>
+
+                            </div>
+                        </Link>
+                        <Link to='/classes/model' style={{ textDecoration: "none" }}>
+                            <div className="card" style={{ borderRadius: "40px" }}>
+                                <div className="card-image">
+                                    <img alt="ClassImg" src={Class7} rel="" />
+                                </div>
+
+                            </div>
+                        </Link>
+                        <Link to='/classes/model' style={{ textDecoration: "none" }}>
+                            <div className="card" style={{ borderRadius: "40px" }}>
+                                <div className="card-image">
+                                    <img alt="ClassImg" src={Class8} rel="" />
+                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class9} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 6</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class10} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 7</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
                             <div className="card" style={{ borderRadius: "40px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class11} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 8</p>
-                                </div>
+
                             </div>
                         </Link>
 
                         <Link to='/classes/model' style={{ textDecoration: "none" }}>
-                            <div className="card" style={{ borderRadius: "40px" }}>
+                            <div className="card" style={{ borderRadius: "20px" }}>
                                 <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
+                                    <img alt="ClassImg" src={Class12} rel="" />
                                 </div>
-                                <div className="card-title title-black">
-                                    <p>Class 9</p>
-                                </div>
-                            </div>
-                        </Link>
 
-                        <Link to='/classes/model' style={{ textDecoration: "none" }}>
-                            <div className="card" style={{ borderRadius: "40px" }}>
-                                <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
-                                </div>
-                                <div className="card-title title-black">
-                                    <p>Class 10</p>
-                                </div>
-                            </div>
-                        </Link>
-
-                        <Link to='/classes/model' style={{ textDecoration: "none" }}>
-                            <div className="card" style={{ borderRadius: "40px" }}>
-                                <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
-                                </div>
-                                <div className="card-title title-black">
-                                    <p>Class 11</p>
-                                </div>
-                            </div>
-                        </Link>
-
-                        <Link to='/classes/model' style={{ textDecoration: "none" }}>
-                            <div className="card" style={{ borderRadius: "40px" }}>
-                                <div className="card-image">
-                                    <img alt="ClassImg" src={ClassImg} rel="" />
-                                </div>
-                                <div className="card-title title-black">
-                                    <p>Class 12</p>
-                                </div>
                             </div>
                         </Link>
 
