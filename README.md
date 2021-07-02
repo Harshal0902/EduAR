@@ -37,6 +37,10 @@ We created An AR-based website EduAR where students from any background can visi
 - Bootstrap
 - Styled Components
 
+## Real Time usage of the project
+
+[www.3dbear.io](https://www.3dbear.io/)
+
 ## Step by Step Procedure to run your respective Project in our Local Machine:
 
 ### Prerequisites
@@ -57,13 +61,14 @@ npm start
 # Some glimps of the site
 
 Easy Log In/sign Up
-
+![Login](https://user-images.githubusercontent.com/64153988/124307470-7ed5b480-db85-11eb-8d6d-26251c722baf.png)
 Home Page
-
+![HomePageEng](https://user-images.githubusercontent.com/64153988/124307479-81d0a500-db85-11eb-9c12-fc57e6126f02.png)
 Class Page
-
+![Class](https://user-images.githubusercontent.com/64153988/124307474-809f7800-db85-11eb-96fc-9b540b2391e0.png)
 AR Model
-
+![Model](https://user-images.githubusercontent.com/64153988/124307471-7f6e4b00-db85-11eb-99d6-27d7c7cf495f.png)
 Chatbot
-
+![chatbot](https://user-images.githubusercontent.com/64153988/124307472-8006e180-db85-11eb-9c98-c2473ec55efd.png)
 Available in multiple languages
+![HomePageHi](https://user-images.githubusercontent.com/64153988/124307462-7d0bf100-db85-11eb-9c74-e464a3c70342.png)
